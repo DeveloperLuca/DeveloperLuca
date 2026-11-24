@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **DevLuca@outlook.de**
 
-- ⚡ Fun fact **I spend 50% of my time writing code and the other 50% fixing the code I just wrote. **
+- ⚡ Fun fact I spend 50% of my time writing code and the other 50% fixing the code I just wrote. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
